@@ -1,2 +1,2 @@
 # negative-notnegative
-the number is negative?
+it's number negative?
